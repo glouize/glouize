@@ -44,6 +44,8 @@ I build production-grade data platforms that replace manual reporting and give f
 
 ## Currently Learning
 
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3A24?style=flat-square&logo=databricks&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-000000?style=flat-square&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-F45B13?style=flat-square&logo=zapier&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
