@@ -68,3 +68,8 @@ AWS Certified Cloud Practitioner
 Microsoft Certified: Azure Data Fundamentals
 
 DataOPS Fundamentals Certification - Data Kitchen
+
+
+**What I’m Focused On Now**
+
+Learning automation tools - make.com, zapier, n8n 
