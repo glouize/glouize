@@ -49,8 +49,3 @@ I build production-grade data platforms that replace manual reporting and give f
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 - Better workflow design for scalable data operations
-
-## Contact
-- GitHub: [@glouize](https://github.com/glouize)
-- LinkedIn: add your link here
-- Portfolio: add your link here
