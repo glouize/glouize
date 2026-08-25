@@ -43,7 +43,11 @@ I build production-grade data platforms that replace manual reporting and give f
 - DataOps Fundamentals Certification – Data Kitchen
 
 ## Currently Learning
-- Automation tools such as Make, Zapier, and n8n
+
+![Make](https://img.shields.io/badge/Make-000000?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-F45B13?style=flat-square&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
 - Better workflow design for scalable data operations
 
 ## Contact
