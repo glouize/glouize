@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m **Loulise Guerrerro**, a **Data Engineer** with a background in **Computer Engineering (BScPE)**.
+I’m **Louise Guerrero**, a **Data Engineer** with a background in **Computer Engineering (BScPE)**.
 
 I build production-grade data platforms that replace manual reporting and give finance, operations, and business teams reliable data to move faster.
 
