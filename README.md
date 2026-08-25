@@ -35,7 +35,6 @@ Data Engineering & Analytics
 **Databases & Data Warehousing**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -57,3 +56,15 @@ Data Engineering & Analytics
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+
+**Certification**
+
+Snowflake University Platform Skills Badge
+
+
+AWS Certified Cloud Practitioner
+
+Microsoft Certified: Azure Data Fundamentals
+
+DataOPS Fundamentals Certification - Data Kitchen
